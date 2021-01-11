@@ -1,0 +1,17 @@
+{
+  "name": "madd/valigara",
+  "description": "Valigara test assignment",
+  "type": "project",
+  "authors": [
+    {
+      "name": "Aleksei Nikolaev",
+      "email": "madd.niko@gmail.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "": "App/"
+    }
+  }
+}
